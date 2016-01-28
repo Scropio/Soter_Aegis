@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings
+  Soter-Main
+
+  Created by Neil on 2015/11/16.
+  Copyright © 2015年 Taiyuta. All rights reserved.
+*/
+//test
+Language_setting = "语言设置";
+//main menu
+Main_Menu_Option1 = "外部储存区";
+Main_Menu_Option2 = "云端服务";
+Main_Menu_Option3 = "照片管理员";
+Main_Menu_Option4 = "帐号管理";
+Main_Menu_Option5 = "系统设定";
+//setting
+Setting_Title = "设置";
+Setting_Option1 = "超级密码";
+Setting_Option2 = "Dropbox 登出";
+Setting_Option3 = "关于云特盾";
+Setting_Option4 = "云特盾容量";
+Setting_Option5 = "语言设置";
+Setting_msg1 = "    未寻找到装置";
+//RandomKeyboard
+RandomKeyboard_Title = "动态密码";
+RandomKeyboard_AlertView_msg1 = "密码错误";
+RandomKeyboard_AlertView_msg2 = "请尝试其他密码";
+RandomKeyboard_AlertView_msg3 = "我知道了";
+RandomKeyboard_Button_Reset = "重置";
+RandomKeyboard_Button_Confirm = "确定";
+Setting_AlertView_msg1 = "系统讯息";
+Setting_AlertView_msg2 = "Dropbox 已经登出";
+Setting_AlertView_msg3 = "确认";
+//AccountＭanager
+AccountManager_Title = "帐号管理员";
+AccountManager_UserName = "使用者名称";
+AccountManager_Password = "密码";
+AccountManager_Comment = "备注";
+AccountManager_Service = "服务";
+AccountManager_Save = "存挡";
+AccountManager_Delete = "删除";
+AccountManager_Detail = "帐户资讯";
+AccountManager_Finish = "完成";
+//Photo Center
+PhotoCenter_Title = "图片相簿";
+PhotoCenter_Title2 = "相机图库";
+PhotoCenter_Cancel =  "取消";
+PhotoCenter_Done =  "完成";
+PhotoCenter_Option_Move_msg1 = "选择移动目标";
+PhotoCenter_Option_Move_msg2 = "外部储存区";
+PhotoCenter_Option_Move_msg3 = "云端";
+PhotoCenter_Option_Copy_msg1 = "选择复制目标";
+PhotoCenter_Message = "系统讯息";
+PhotoCenter_OK = "确认";
+PhotoCenter_error_msg = "警告";
+PhotoCenter_error_msg1 = "不支援的档案格式";
+PhotoCenter_error_msg2 = "请登录您的 Dropbox 帐户";
+PhotoCenter_Option_Move_msg4 = "移动至图片相簿";
+PhotoCenter_OTG = "外部储存区";
+PhotoCenter_Cloud = "云端服务";
+PhotoCenter_Option_Move_msg5 = "选择目标";
+PhotoCenter_Option_Move_msg6 = "操作选项";
+PhotoCenter_Copy = "复制";
+PhotoCenter_error_msg3 = "移动（不支援在这里）";
+//Cloud
+Cloud_OK = "确认";
+Cloud_Title = "云端列表";
+Cloud_Login = "登入服务";
+Cloud_Path = "路径:";
+Cloud_Message = "系统讯息";
+Cloud_Option_Move_msg1 = "选择移动目标";
+Cloud_Option_Move_msg2 = "取消";
+Cloud_Option_Move_msg3 = "照片管理员";
+Cloud_Option_Move_msg4 = "外部储存区";
+Cloud_Option_Copy_msg1 = "选择复制目标";
+Cloud_Option_Copy_msg2 = "取消";
+Cloud_Option_Copy_msg3 = "照片管理员";
+Cloud_Option_Copy_msg4 = "外部储存区";
+Cloud_msg = "搜寻云端列表";
+Cloud_error_msg = "验证错误，请检查你的Dropbox服务";
+Cloud_error_msg2 = "请检查您的网路服务\ n和重试";
+Cloud_error_msg3 = "验证错误：请检查你的Dropbox服务";
+Cloud_Cancel = "取消";
+Cloud_OTG = "外部储存区";
+Cloud_Cloud = "云端服务";
+Cloud_Move = "移动";
+Cloud_Copy = "复制";
+Cloud_PhotoCenter = "圖片相簿";
+Cloud_AlertView_msg1 = "选择目标";
+Cloud_AlertView_msg2 = "操作选项";
+Cloud_Done = "完成";
+Cloud_msg2 = "搜寻外部储存区档案列表";
+Cloud_msg3 = "搜寻档案列表";
+Cloud_msg4 = "搜寻云端服务档案列表";
+Cloud_error_msg4 = "警告";
+Cloud_error_msg5 = "不支援档案格式";
+
+//SuperPassword
+SuperPassword_Title = "变更超级密码";
+SuperPassword_Button_Enter = "确定";
+SuperPassword_Button_Reset = "重置";
+SuperPassword_Text1 = "请输入新密码";
+SuperPassword_Text2 = "再次确认新密码";
+SuperPassword_AlertView_msg1 = "密码错误";
+SuperPassword_AlertView_msg2 = "请尝试其他密码";
+SuperPassword_AlertView_msg3 = "我知道了";
+SuperPassword_AlertView_msg4 = "變更完成!";
+//About
+About_Title = "关于 Seoter Aegis";
+About_Text = "云特盾是一个便携式的数据管理工具，支持双系统 - iOS / Windows 幫助用戶打開，取出雲端存儲和加密數據的閃存與 AES256 還可以進行解密，並打開加密協定傳輸與您的 iOS 設備，以滿足數據安全管理功能連接雲特盾APP。還有一件事：它也已經通過了蘋果MFI認證";
+About_Header = "云特盾";
+About_Version = "Version ver 1.0.0.0";
+//OTG
+OTG_Title = "档案预览";
+OTG_Title2 = "档案列表";
+OTG_Option_Move_msg1 = "选择移动目标";
+OTG_Option_Move_msg2 = "取消";
+OTG_Option_Move_msg3 = "照片管理员";
+OTG_Option_Move_msg4 = "云端";
+OTG_msg = "上传到云端服务";
+OTG_msg2 = "此文件正在解密中！\n 请稍候...";
+OTG_msg3 = "此文件正在加密中！\n 请稍候...";
+OTG_error_msg = "请登录您的 Dropbox 帐户";
+OTG_error_msg2 = "请输入密码！\n 必需超过5个号码！";
+OTG_OK = "确认";
+OTG_Message = "系统讯息";
+OTG_Debug = "除错";
+OTG_Move = "移动";
+OTG_Copy = "复制";
+OTG_AlertView_msg1 = "选择目标";
+OTG_AlertView_msg2 = "操作选项";
+//FileSystemAPI
+FileSystemAPI_msg = "系统讯息";
+FileSystemAPI_msg1 = "目标档案 (%@) 已存在";
+FileSystemAPI_msg2 = "这不是正确的密码！";
+FileSystemAPI_msg3 = "来源档案不存在!";
+FileSystemAPI_msg4 = "可使用空间不足!";
+FileSystemAPI_msg5 = "[来源档案存在]";
+FileSystemAPI_msg6 = "[复制档案]";
+FileSystemAPI_msg7 = "档案复制到相片簿成功!";
+FileSystemAPI_msg8 = "--- : 开启档案失败 !!! ";
+FileSystemAPI_msg9 = "--- : 外部储存区 复制到 外部储存区";
+FileSystemAPI_msg10 = "来源档案不存在! %@";
+FileSystemAPI_msg12 = "目标档案已存在!";
+FileSystemAPI_msg13 = "--- : 初始文件系统失败";
+FileSystemAPI_msg14 = "--- : 初始文件系统成功";
+FileSystemAPI_msg15 = "--- : 变更资料夹略过";
+FileSystemAPI_msg16 = "--- : 变更资料夹成功";
+FileSystemAPI_msg17 = "--- : 变更资料夹失败 (%@)";
+FileSystemAPI_msg18 = "--- : 未找到...";
+FileSystemAPI_msg19 = "--- : 删除档案略过";
+FileSystemAPI_msg20 = "--- : 删除档案（SFN.JPG）成功 (%@)";
+FileSystemAPI_msg21 = "--- : 删除档案失败 (%@)";
+FileSystemAPI_msg22 = "读取档案： %@";
+FileSystemAPI_msg23 = "--- : 读取档案成功";
+FileSystemAPI_msg24 = "--- : 讀取檔案失敗";
+FileSystemAPI_msg25 = "--- : 关闭档案成功";
+FileSystemAPI_msg26 = "--- : 关闭档案失败";
+FileSystemAPI_msg27 = "--- : 写入档案成功";
+FileSystemAPI_msg28 = "--- : 写入档案失败";
+FileSystemAPI_OK = "确定";

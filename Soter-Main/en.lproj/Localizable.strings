@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  Soter-Main
+
+  Created by Neil on 2015/11/16.
+  Copyright © 2015年 Taiyuta. All rights reserved.
+*/
+//test
+Language_setting = "Language setting";
+//main menu
+Main_Menu_Option1 = "External Storage";
+Main_Menu_Option2 = "Cloud";
+Main_Menu_Option3 = "Photo Center";
+Main_Menu_Option4 = "Account Manager";
+Main_Menu_Option5 = "Setting";
+//setting
+Setting_Title = "Setting";
+Setting_Option1 = "Super Password";
+Setting_Option2 = "Dropbox logout";
+Setting_Option3 = "About Soter";
+Setting_Option4 = "Capacity";
+Setting_Option5 = "Language";
+Setting_msg1 = "No device";
+Setting_AlertView_msg1 = "System";
+Setting_AlertView_msg2 = "Dropbox is already logout";
+Setting_AlertView_msg3 = "OK";
+//RandomKeyboard
+RandomKeyboard_Title = "Random Keyboard";
+RandomKeyboard_AlertView_msg1 = "Wrong password";
+RandomKeyboard_AlertView_msg2 = "Please try another password.";
+RandomKeyboard_AlertView_msg3 = "I got it";
+RandomKeyboard_Button_Reset = "Reset";
+RandomKeyboard_Button_Confirm = "Confirm";
+//AccountＭanager
+AccountManager_Title = "Account Ｍanager";
+AccountManager_UserName = "UserName";
+AccountManager_Password = "Password";
+AccountManager_Comment = "Comment";
+AccountManager_Service = "Service";
+AccountManager_Save = "Save";
+AccountManager_Delete = "Delete";
+AccountManager_Detail = "Account Detail";
+AccountManager_Finish = "Finish";
+//Photo Center
+PhotoCenter_Title = "Photo Album";
+PhotoCenter_Title2 = "Camera Roll";
+PhotoCenter_Cancel =  "Cancel";
+PhotoCenter_Done =  "Done";
+PhotoCenter_Option_Move_msg1 = "Select move to target";
+PhotoCenter_Option_Move_msg2 = "OTG";
+PhotoCenter_Option_Move_msg3 = "Cloud";
+PhotoCenter_Option_Copy_msg1 = "Select copy to target";
+PhotoCenter_Message = "System Message";
+PhotoCenter_OK = "OK";
+PhotoCenter_error_msg = "Warning";
+PhotoCenter_error_msg1 = "Format is not support";
+PhotoCenter_error_msg2 = "Please login your Dropbox";
+PhotoCenter_Option_Move_msg4 = "Move to photo center";
+PhotoCenter_OTG = "OTG";
+PhotoCenter_Cloud = "Cloud";
+PhotoCenter_Option_Move_msg5 = "Select Target";
+PhotoCenter_Option_Move_msg6 = "Action Option";
+PhotoCenter_Copy = "Copy";
+PhotoCenter_error_msg3 = "Move (Not support at here)";
+//Cloud
+Cloud_OK = "OK";
+Cloud_Title = "Cloud List";
+Cloud_Login = "Service Login";
+Cloud_Path = "Path:";
+Cloud_Message = "System Message";
+Cloud_Option_Move_msg1 = "Select move to target";
+Cloud_Option_Move_msg2 = "Cancel";
+Cloud_Option_Move_msg3 = "Photo Center";
+Cloud_Option_Move_msg4 = "OTG";
+Cloud_Option_Copy_msg1 = "Select copy to target";
+Cloud_Option_Copy_msg2 = "Cancel";
+Cloud_Option_Copy_msg3 = "Photo Center";
+Cloud_Option_Copy_msg4 = "OTG";
+Cloud_msg = "Retrive cloud file list";
+Cloud_error_msg = "Authentication error, please check your dropbox service";
+Cloud_error_msg2 = "Please check your internet service\n and try again";
+Cloud_error_msg3 = "Authentication error:please check your dropbox service";
+Cloud_Cancel = "Cancel";
+Cloud_OTG = "OTG";
+Cloud_Cloud = "Cloud";
+Cloud_Move = "Move";
+Cloud_Copy = "Copy";
+Cloud_PhotoCenter = "Photo Center";
+Cloud_AlertView_msg1 = "Select Target";
+Cloud_AlertView_msg2 = "Action Option";
+Cloud_Done = "Done";
+Cloud_msg2 = "Retrive external storage file list";
+Cloud_msg3 = "Retrive file list";
+Cloud_msg4 = "Retrive cloud file list";
+Cloud_error_msg4 = "Warning";
+Cloud_error_msg5 = "Format is not support";
+//SuperPassword
+SuperPassword_Title = "Change Super Password";
+SuperPassword_Button_Enter = "Enter";
+SuperPassword_Button_Reset = "Reset";
+SuperPassword_Text1 = "Enter Password";
+SuperPassword_Text2 = "Confirm Password";
+SuperPassword_AlertView_msg1 = "Wrong password";
+SuperPassword_AlertView_msg2 = "Please try another password.";
+SuperPassword_AlertView_msg3 = "I got it";
+SuperPassword_AlertView_msg4 = "Change Success!";
+//About
+About_Title = "About Seoter Aegis";
+About_Text = "Soter Aegis is a portable data management tools which support the twin systems-iOS/Windows.It helped user to open, remove, reserve on the cloud storage and encrypt the data in the Flash with AES 256. You also can decrypt and open the cryptic privacy data by connect the Soter Aegis APP with your iOS device to meet the data safety management function. And one more thing:It also has passed the Apple MFi certification.";
+About_Header = "Soter Aegis";
+About_Version = "Version ver 1.0.0.0";
+//OTG
+OTG_Title = "File Preview";
+OTG_Title2 = "FileList";
+OTG_Option_Move_msg1 = "Select move to target";
+OTG_Option_Move_msg2 = "Cancel";
+OTG_Option_Move_msg3 = "Photo Center";
+OTG_Option_Move_msg4 = "Cloud";
+OTG_msg = "Uploading to cloud service";
+OTG_msg2 = "The file is decrypting!\nPlease wait...";
+OTG_msg3 = "The file is encrypting!\nPlease wait...";
+OTG_error_msg = "Please login your Dropbox";
+OTG_error_msg2 = "Please input key!\nMore than 5 numbers!";
+OTG_OK = "OK";
+OTG_Message = "System Message";
+OTG_Debug = "Debug";
+OTG_Move = "Move";
+OTG_Copy = "Copy";
+OTG_AlertView_msg1 = "Select Target";
+OTG_AlertView_msg2 = "Action Option";
+//FileSystemAPI
+FileSystemAPI_msg = "System Message";
+FileSystemAPI_msg1 = "Target file(%@) is exist!";
+FileSystemAPI_msg2 = "It is't correct password!";
+FileSystemAPI_msg3 = "Source file is't exist!";
+FileSystemAPI_msg4 = "Available Space is't enough!";
+FileSystemAPI_msg5 = "[Is source file exist]";
+FileSystemAPI_msg6 = "[Copy file]";
+FileSystemAPI_msg7 = "Copy file to Album successed!";
+FileSystemAPI_msg8 = "--- : Open file fail !!! ";
+FileSystemAPI_msg9 = "--- : External Copy to External End";
+FileSystemAPI_msg10 = "Source file isn't exist! %@";
+FileSystemAPI_msg12 = "Destination file is exist!";
+FileSystemAPI_msg13 = "--- : Initial FileSystem FAIL";
+FileSystemAPI_msg14 = "--- : Initial FileSystem SUCCESS";
+FileSystemAPI_msg15 = "--- : Change Dir IGNORE";
+FileSystemAPI_msg16 = "--- : Change Dir SUCCESS";
+FileSystemAPI_msg17 = "--- : Change Dir FAIL(%@)";
+FileSystemAPI_msg18 = "--- : Not Found...";
+FileSystemAPI_msg19 = "--- : Delete File IGNORE";
+FileSystemAPI_msg20 = "--- : Delete File(SFN.JPG) SUCCESS(%@)";
+FileSystemAPI_msg21 = "--- : Delete File FAIL(%@)";
+FileSystemAPI_msg22 = "DO_READ_FILE:%@";
+FileSystemAPI_msg23 = "--- : Read File SUCCESS";
+FileSystemAPI_msg24 = "--- : Read File FAIL";
+FileSystemAPI_msg25 = "--- : Close File SUCCESS";
+FileSystemAPI_msg26 = "--- : Close File FAIL";
+FileSystemAPI_msg27 = "--- : Write File SUCCESS";
+FileSystemAPI_msg28 = "--- : Write File FAIL";
+FileSystemAPI_OK = "OK";
